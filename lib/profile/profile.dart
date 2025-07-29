@@ -63,7 +63,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
           ),
           const SizedBox(width: 8),
           const Text(
-            'MasterConnect',
+            'Hustler Link',
             style: TextStyle(
               fontWeight: FontWeight.bold,
               fontSize: 18,
